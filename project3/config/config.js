@@ -1,4 +1,4 @@
-mern - skeleton / config / config.js;
+// mern - skeleton / config / config.js;
 const config = {
   env: process.env.NODE_ENV || "development",
   port: process.env.PORT || 3000,
